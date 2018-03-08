@@ -2,10 +2,10 @@
 {
     'name': "Helper",
 
-    'summary': """Condominium APP""",
+    'summary': """Helper APP""",
 
     'description': """
-        Odoo Theme:
+        Odoo Helper:
             - herles.incalla@gmail.com
             - yojana.vilca@gmail.com
     """,
